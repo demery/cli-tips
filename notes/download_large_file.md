@@ -1,3 +1,5 @@
+
+
 ```zsh
 ❯ ls
 Find-and-count-with-awk.txt README.md                   data
@@ -70,7 +72,6 @@ Notes and code for demontrating CLI techniques.
 
 
 
-
 ```bash
 st=1; while [ $st -ne 0 ]; do
 curl -L -O  -C - https://data.bl.uk/hebrewmanuscripts/hebrew-manuscripts-out-of-copyright-4.zip
@@ -87,4 +88,6 @@ done
 
 ```bash
 while ! curl -L -O  -C - https://data.bl.uk/hebrewmanuscripts/hebrew-manuscripts-out-of-copyright-4.zip ; do : ; done
+```
+
 

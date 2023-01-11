@@ -1,0 +1,64 @@
+
+ ~
+❯ ls
+Applications                   Documents                      Library                        Pictures                       bin                            freedman-2019-12-04.zip        tmp 
+Box Sync                       Downloads                      Movies                         Public                         code                           java_error_in_rubymine_859.log yankring_history_v2.txt 
+Creative Cloud Files           Dropbox                        Music                          Screenshots                    deployments                    scripts 
+Desktop                        Java                           NoBackup                       Zotero                         dev                            test.db 
+ 
+ ~
+❯ cd code
+ 
+ ~/code
+❯ ls
+KislakCenter        demery              digital-scriptorium gitlab-int          others              postertorn          scratch             upenn-libraries 
+ 
+ ~/code
+❯ cd ../NoBackup
+ 
+ ~/NoBackup
+❯ ls
+BASIRA                 DS Walk-through videos Penn                   Salzmann               ds                     ds-combined.numbers 
+ 
+ ~/NoBackup
+❯ cd ds
+ 
+ ~/NoBackup/ds
+❯ ls
+create_pdfs.sh                     download_page.rb                   ds-pdf-urls.csv                    junk                               missing-pdfs-html.txt              redos-2.csv 
+digitalassets-lib-berkeley-edu.tgz ds-image-counts-1.csv              full_urls.csv                      just_mets                          missing-urls-2.csv                 redos-3.csv 
+digitalassets.lib.berkeley.edu     ds-image-counts-3.csv              harvard                            just_mets.txt                      missing-urls.csv                   test 
+digscript_search_header.png        ds-mets-20220310.tgz               html                               missing-ds-pages.xlsx              pdfs                               test.pdf 
+download_images.rb                 ds-mets.tgz                        index.html                         missing-pdfs-html.csv              redos-1.csv 
+ 
+ ~/NoBackup/ds
+❯ cd html
+ 
+ ~/NoBackup/ds/html
+❯ ls
+columbia     freelib      harvard      indiana      missouri     nelsonatkins nyu          penn         rome         sfu          txaustin 
+ 
+ ~/NoBackup/ds/html
+❯
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
